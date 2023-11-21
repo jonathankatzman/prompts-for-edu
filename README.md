@@ -81,6 +81,30 @@ When using the prompts, ensure that you always include the original license and 
 For the complete MIT License text, please see the [`LICENSE`](./LICENSE) file in this repository.
 
 
+AI USE     | ROLE            | PEDAGOGICAL BENEFIT                                        | PEDAGOGICAL RISK
+-----------|-----------------|------------------------------------------------------------|-----------------------------------------
+MENTOR     | Providing       | Frequent feedback improves learning outcomes, even if all  | Not critically examining feedback,
+           | feedback        | advice is not taken.                                       | which may contain errors.
+-----------|-----------------|------------------------------------------------------------|-----------------------------------------
+TUTOR      | Direct          | Personalized direct instruction is very effective.         | Uneven knowledge base of AI. Serious
+           | instruction     |                                                            | confabulation risks.
+-----------|-----------------|------------------------------------------------------------|-----------------------------------------
+COACH      | Prompt          | Opportunities for reflection and regulation, which         | Tone or style of coaching may not
+           | metacognition   | improve learning outcomes.                                 | match student. Risks of incorrect advice.
+-----------|-----------------|------------------------------------------------------------|-----------------------------------------
+TEAMMATE   | Increase team   | Provide alternate viewpoints, help learning teams function | Confabulation and errors. “Personality”
+           | performance     | better.                                                    | conflicts with other team members.
+-----------|-----------------|------------------------------------------------------------|-----------------------------------------
+STUDENT    | Receive         | Teaching others is a powerful learning technique.          | Confabulation and argumentation may
+           | explanations    |                                                            | derail the benefits of teaching.
+-----------|-----------------|------------------------------------------------------------|-----------------------------------------
+SIMULATOR  | Deliberate      | Practicing and applying knowledge aids transfer.           | Inappropriate fidelity.
+           | practice        |                                                            |
+-----------|-----------------|------------------------------------------------------------|-----------------------------------------
+TOOL       | Accomplish      | Helps students accomplish more within the same time frame. | Outsourcing thinking, rather than work.
+           | tasks           |                                                            |
+
+
 ---
 
 This project is continually evolving, and we're excited about the potential it holds for improving productivity in educational institutions and offering new, dynamic learning experiences for students. Your feedback, ideas, and participation are vital to our success. Thank you for joining us on this exciting journey! Happy teaching!
